@@ -154,7 +154,7 @@ images:
       (c) Example of synthetic stratigraphy from a simulation without (left) and with
       flexural compensation (right).
   graphic_abstract:
-    src: ./graphics/egusphere-2023-53_Fig5.pdf
+    src: ./graphics/egusphere-2023-53_Fig5.png
     caption: "\nOutput of numerical simulations with imposed synthetic sea-level curves
       with different frequencies (f) showing elevation, bathymetry and discharge of
       the river mouth at 8 Myr. Note the difference in lateral extent, elevation due
