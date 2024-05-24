@@ -9,9 +9,12 @@ for_codes:
   - 370401
 status:
   - completed
-doi: ''
+doi: https://doi.org/10.25914/4m82-y773
 url: https://mate.science//models/polanco-2024-deltas
-creditText: ''
+creditText: Polanco, S., Blum, M., Salles, T., Frederick, B., Farrington, R., Ding,
+  X., Mather, B., Mallard, C., & Moresi, L. (2024). Flexural isostatic response of
+  continental-scale deltas to climatically driven sea level changes [Data set]. AuScope,
+  National Computational Infrastructure. https://doi.org/4m82-y773
 software:
   - name: Badlands
     doi: https://doi.org/10.5281/zenodo.1069573
