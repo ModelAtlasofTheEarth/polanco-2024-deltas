@@ -1,1 +1,39 @@
-
+cff-version: 1.2.0
+message: If you use this model, please cite it as below.
+authors:
+- family-names: Polanco
+  given-names: Sara
+  orcid: https://orcid.org/0000-0002-1270-4377
+- family-names: Blum
+  given-names: Michael
+  orcid: https://orcid.org/0000-0003-0263-0084
+- family-names: Salles
+  given-names: Tristan
+  orcid: https://orcid.org/0000-0001-6095-7689
+- family-names: Frederick
+  given-names: Bruce C
+  orcid: _:b2
+- family-names: Farrington
+  given-names: Rebecca
+  orcid: https://orcid.org/0000-0002-2594-6965
+- family-names: Ding
+  given-names: Xuesong
+  orcid: https://orcid.org/0000-0003-3693-932X
+- family-names: Mather
+  given-names: Ben
+  orcid: https://orcid.org/0000-0003-3566-1557
+- family-names: Mallard
+  given-names: Claire A.
+  orcid: https://orcid.org/0000-0003-2595-2414
+- family-names: Moresi
+  given-names: Louis-Noel
+  orcid: https://orcid.org/0000-0003-3685-174X
+title: Flexural isostatic response of continental-scale deltas to climatically driven
+  sea level changes
+version: ''
+doi: https://doi.org/10.25914/4m82-y773
+date-released: '2024-05-24'
+url:
+- https://mate.science/models/polanco-2024-deltas/
+- https://github.com/ModelAtlasofTheEarth/polanco-2024-deltas/
+type: dataset
